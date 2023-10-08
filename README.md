@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Danu Wardana | user : @kryptonxarmy
-- 👀 I’m interested in Bobok zzz...
-- 🌱 I’m currently learning python,javascript,Cpp
-- 💞️ nothing for me to collaborate on 
+- 👋 Hi, I’m Ahmad Syahid Danu Wardana | user : @kryptonxarmy
+- 👀 I’m interested in Frontend -> Reactjs
+- 🌱 I’m currently learning python,javascript,java
 - 📫 How to reach me :
-  instagram : @_danu.wardana8
-  | whatsapp  : 081359357517
-  | twitter   : @Danuwardana17
+  instagram : @danu.wardana_
+  whatsapp  : 081359357517
+  Line      : @danu.wardana8
+
 
 <!---
 kryptonxarmy/kryptonxarmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
