@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad Syahid Danu Wardana | user : @kryptonxarmy
 - 👀 I’m interested in Frontend -> Reactjs
-- 🌱 I’m currently learning python,javascript,java
+- 🌱 I’m currently learning javascript, ReactJS, VueJS
 - 📫 How to reach me : </br>
   instagram : @danu.wardana_ </br>
   whatsapp  : 081359357517 </br>
